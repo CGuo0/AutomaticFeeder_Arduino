@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"SPushbutton to activate piezo speaker, SPushbutton for photoresistor",2," Pushbutton"
+"R1, R6, R7",3,"10 kΩ Resistor"
+"PIEZOPiezo speaker to play noise",1," Piezo"
+"PIRPIR to sense cat/dog",1,"-19.815911501957316 , -161.25667015633783 , -175.79313136046113  PIR Sensor"
+"SERVOServo to open feeder",1,"Positional Micro Servo"
+"D4 LED's for decor , D2, D3, D4",4,"Red LED"
+"R2, R3, R4, R5",4,"220 Ω Resistor"
+"ULCD Display ",1,"PCF8574-based, 32 (0x20) LCD 16 x 2 (I2C)"
+"RPhotoresistor to detect food",1," Photoresistor"
